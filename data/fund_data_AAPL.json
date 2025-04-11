@@ -1,0 +1,304 @@
+{
+  "AAPL": [
+    {
+      "date": "2025-04-10",
+      "symbol": "AAPL",
+      "open": 189.065,
+      "high": 194.7799,
+      "low": 183.0,
+      "close": 190.42,
+      "volume": 121879981,
+      "percent_change": 0.72
+    },
+    {
+      "date": "2025-04-09",
+      "symbol": "AAPL",
+      "open": 171.95,
+      "high": 200.61,
+      "low": 171.89,
+      "close": 198.85,
+      "volume": 184395885,
+      "percent_change": 15.64
+    },
+    {
+      "date": "2025-04-08",
+      "symbol": "AAPL",
+      "open": 186.7,
+      "high": 190.335,
+      "low": 169.2101,
+      "close": 172.42,
+      "volume": 120859491,
+      "percent_change": -7.65
+    },
+    {
+      "date": "2025-04-07",
+      "symbol": "AAPL",
+      "open": 177.2,
+      "high": 194.15,
+      "low": 174.62,
+      "close": 181.46,
+      "volume": 160466286,
+      "percent_change": 2.4
+    },
+    {
+      "date": "2025-04-04",
+      "symbol": "AAPL",
+      "open": 193.89,
+      "high": 199.88,
+      "low": 187.34,
+      "close": 188.38,
+      "volume": 125910913,
+      "percent_change": -2.84
+    },
+    {
+      "date": "2025-04-03",
+      "symbol": "AAPL",
+      "open": 205.54,
+      "high": 207.49,
+      "low": 201.25,
+      "close": 203.19,
+      "volume": 103419006,
+      "percent_change": -1.14
+    },
+    {
+      "date": "2025-04-02",
+      "symbol": "AAPL",
+      "open": 221.315,
+      "high": 225.19,
+      "low": 221.02,
+      "close": 223.89,
+      "volume": 35905904,
+      "percent_change": 1.16
+    },
+    {
+      "date": "2025-04-01",
+      "symbol": "AAPL",
+      "open": 219.805,
+      "high": 223.68,
+      "low": 218.9,
+      "close": 223.19,
+      "volume": 36412740,
+      "percent_change": 1.54
+    },
+    {
+      "date": "2025-03-31",
+      "symbol": "AAPL",
+      "open": 217.005,
+      "high": 225.62,
+      "low": 216.23,
+      "close": 222.13,
+      "volume": 65299321,
+      "percent_change": 2.36
+    },
+    {
+      "date": "2025-03-28",
+      "symbol": "AAPL",
+      "open": 221.67,
+      "high": 223.81,
+      "low": 217.68,
+      "close": 217.9,
+      "volume": 39818617,
+      "percent_change": -1.7
+    },
+    {
+      "date": "2025-03-27",
+      "symbol": "AAPL",
+      "open": 221.39,
+      "high": 224.99,
+      "low": 220.5601,
+      "close": 223.85,
+      "volume": 37094774,
+      "percent_change": 1.11
+    },
+    {
+      "date": "2025-03-26",
+      "symbol": "AAPL",
+      "open": 223.51,
+      "high": 225.02,
+      "low": 220.47,
+      "close": 221.53,
+      "volume": 34532656,
+      "percent_change": -0.89
+    },
+    {
+      "date": "2025-03-25",
+      "symbol": "AAPL",
+      "open": 220.77,
+      "high": 224.1,
+      "low": 220.08,
+      "close": 223.75,
+      "volume": 34493583,
+      "percent_change": 1.35
+    },
+    {
+      "date": "2025-03-24",
+      "symbol": "AAPL",
+      "open": 221.0,
+      "high": 221.48,
+      "low": 218.58,
+      "close": 220.73,
+      "volume": 44299483,
+      "percent_change": -0.12
+    },
+    {
+      "date": "2025-03-21",
+      "symbol": "AAPL",
+      "open": 211.56,
+      "high": 218.84,
+      "low": 211.28,
+      "close": 218.27,
+      "volume": 94127768,
+      "percent_change": 3.17
+    },
+    {
+      "date": "2025-03-20",
+      "symbol": "AAPL",
+      "open": 213.99,
+      "high": 217.4899,
+      "low": 212.22,
+      "close": 214.1,
+      "volume": 48862947,
+      "percent_change": 0.05
+    },
+    {
+      "date": "2025-03-19",
+      "symbol": "AAPL",
+      "open": 214.22,
+      "high": 218.76,
+      "low": 213.75,
+      "close": 215.24,
+      "volume": 54385391,
+      "percent_change": 0.48
+    },
+    {
+      "date": "2025-03-18",
+      "symbol": "AAPL",
+      "open": 214.16,
+      "high": 215.15,
+      "low": 211.49,
+      "close": 212.69,
+      "volume": 42432426,
+      "percent_change": -0.69
+    },
+    {
+      "date": "2025-03-17",
+      "symbol": "AAPL",
+      "open": 213.31,
+      "high": 215.22,
+      "low": 209.97,
+      "close": 214.0,
+      "volume": 48073426,
+      "percent_change": 0.32
+    },
+    {
+      "date": "2025-03-14",
+      "symbol": "AAPL",
+      "open": 211.25,
+      "high": 213.95,
+      "low": 209.58,
+      "close": 213.49,
+      "volume": 60107582,
+      "percent_change": 1.06
+    },
+    {
+      "date": "2025-03-13",
+      "symbol": "AAPL",
+      "open": 215.95,
+      "high": 216.8394,
+      "low": 208.42,
+      "close": 209.68,
+      "volume": 61368330,
+      "percent_change": -2.9
+    },
+    {
+      "date": "2025-03-12",
+      "symbol": "AAPL",
+      "open": 220.14,
+      "high": 221.75,
+      "low": 214.91,
+      "close": 216.98,
+      "volume": 62547467,
+      "percent_change": -1.44
+    },
+    {
+      "date": "2025-03-11",
+      "symbol": "AAPL",
+      "open": 223.805,
+      "high": 225.8399,
+      "low": 217.45,
+      "close": 220.84,
+      "volume": 76137410,
+      "percent_change": -1.32
+    },
+    {
+      "date": "2025-03-10",
+      "symbol": "AAPL",
+      "open": 235.54,
+      "high": 236.16,
+      "low": 224.22,
+      "close": 227.48,
+      "volume": 71451281,
+      "percent_change": -3.42
+    },
+    {
+      "date": "2025-03-07",
+      "symbol": "AAPL",
+      "open": 235.105,
+      "high": 241.37,
+      "low": 234.76,
+      "close": 239.07,
+      "volume": 46273565,
+      "percent_change": 1.69
+    },
+    {
+      "date": "2025-03-06",
+      "symbol": "AAPL",
+      "open": 234.435,
+      "high": 237.86,
+      "low": 233.1581,
+      "close": 235.33,
+      "volume": 45170419,
+      "percent_change": 0.38
+    },
+    {
+      "date": "2025-03-05",
+      "symbol": "AAPL",
+      "open": 235.42,
+      "high": 236.55,
+      "low": 229.23,
+      "close": 235.74,
+      "volume": 47227643,
+      "percent_change": 0.14
+    },
+    {
+      "date": "2025-03-04",
+      "symbol": "AAPL",
+      "open": 237.705,
+      "high": 240.07,
+      "low": 234.68,
+      "close": 235.93,
+      "volume": 53798062,
+      "percent_change": -0.75
+    },
+    {
+      "date": "2025-03-03",
+      "symbol": "AAPL",
+      "open": 241.79,
+      "high": 244.0272,
+      "low": 236.112,
+      "close": 238.03,
+      "volume": 47183985,
+      "percent_change": -1.56
+    },
+    {
+      "date": "2025-02-28",
+      "symbol": "AAPL",
+      "open": 236.95,
+      "high": 242.09,
+      "low": 230.2,
+      "close": 241.84,
+      "volume": 56833360,
+      "percent_change": 2.06
+    }
+  ]
+}

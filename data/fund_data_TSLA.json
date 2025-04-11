@@ -1,0 +1,304 @@
+{
+  "TSLA": [
+    {
+      "date": "2025-04-11",
+      "symbol": "TSLA",
+      "open": 251.95,
+      "high": 257.74,
+      "low": 241.3629,
+      "close": 252.31,
+      "volume": 128471321,
+      "percent_change": 0.14
+    },
+    {
+      "date": "2025-04-10",
+      "symbol": "TSLA",
+      "open": 260.0,
+      "high": 262.49,
+      "low": 239.33,
+      "close": 252.4,
+      "volume": 181722604,
+      "percent_change": -2.92
+    },
+    {
+      "date": "2025-04-09",
+      "symbol": "TSLA",
+      "open": 224.69,
+      "high": 274.69,
+      "low": 223.88,
+      "close": 272.2,
+      "volume": 219433373,
+      "percent_change": 21.14
+    },
+    {
+      "date": "2025-04-08",
+      "symbol": "TSLA",
+      "open": 245.0,
+      "high": 250.44,
+      "low": 217.8,
+      "close": 221.86,
+      "volume": 171603472,
+      "percent_change": -9.44
+    },
+    {
+      "date": "2025-04-07",
+      "symbol": "TSLA",
+      "open": 223.78,
+      "high": 252.0,
+      "low": 214.25,
+      "close": 233.29,
+      "volume": 183453776,
+      "percent_change": 4.25
+    },
+    {
+      "date": "2025-04-04",
+      "symbol": "TSLA",
+      "open": 255.38,
+      "high": 261.0,
+      "low": 236.0,
+      "close": 239.43,
+      "volume": 181229353,
+      "percent_change": -6.25
+    },
+    {
+      "date": "2025-04-03",
+      "symbol": "TSLA",
+      "open": 265.29,
+      "high": 276.3,
+      "low": 261.51,
+      "close": 267.28,
+      "volume": 136174291,
+      "percent_change": 0.75
+    },
+    {
+      "date": "2025-04-02",
+      "symbol": "TSLA",
+      "open": 254.6,
+      "high": 284.99,
+      "low": 251.27,
+      "close": 282.76,
+      "volume": 212787817,
+      "percent_change": 11.06
+    },
+    {
+      "date": "2025-04-01",
+      "symbol": "TSLA",
+      "open": 263.8,
+      "high": 277.45,
+      "low": 259.25,
+      "close": 268.46,
+      "volume": 146486911,
+      "percent_change": 1.77
+    },
+    {
+      "date": "2025-03-31",
+      "symbol": "TSLA",
+      "open": 249.31,
+      "high": 260.56,
+      "low": 243.3601,
+      "close": 259.16,
+      "volume": 134008936,
+      "percent_change": 3.95
+    },
+    {
+      "date": "2025-03-28",
+      "symbol": "TSLA",
+      "open": 275.575,
+      "high": 276.1,
+      "low": 260.57,
+      "close": 263.55,
+      "volume": 123809389,
+      "percent_change": -4.36
+    },
+    {
+      "date": "2025-03-27",
+      "symbol": "TSLA",
+      "open": 272.48,
+      "high": 291.85,
+      "low": 271.8216,
+      "close": 273.13,
+      "volume": 162572146,
+      "percent_change": 0.24
+    },
+    {
+      "date": "2025-03-26",
+      "symbol": "TSLA",
+      "open": 282.66,
+      "high": 284.9,
+      "low": 266.51,
+      "close": 272.06,
+      "volume": 156254441,
+      "percent_change": -3.75
+    },
+    {
+      "date": "2025-03-25",
+      "symbol": "TSLA",
+      "open": 283.6,
+      "high": 288.2,
+      "low": 271.28,
+      "close": 288.14,
+      "volume": 150361538,
+      "percent_change": 1.6
+    },
+    {
+      "date": "2025-03-24",
+      "symbol": "TSLA",
+      "open": 258.075,
+      "high": 278.64,
+      "low": 256.33,
+      "close": 278.39,
+      "volume": 169079865,
+      "percent_change": 7.87
+    },
+    {
+      "date": "2025-03-21",
+      "symbol": "TSLA",
+      "open": 234.985,
+      "high": 249.52,
+      "low": 234.55,
+      "close": 248.71,
+      "volume": 132728684,
+      "percent_change": 5.84
+    },
+    {
+      "date": "2025-03-20",
+      "symbol": "TSLA",
+      "open": 233.345,
+      "high": 238.0,
+      "low": 230.0501,
+      "close": 236.26,
+      "volume": 99028270,
+      "percent_change": 1.25
+    },
+    {
+      "date": "2025-03-19",
+      "symbol": "TSLA",
+      "open": 231.61,
+      "high": 241.41,
+      "low": 229.201,
+      "close": 235.86,
+      "volume": 111993753,
+      "percent_change": 1.83
+    },
+    {
+      "date": "2025-03-18",
+      "symbol": "TSLA",
+      "open": 228.155,
+      "high": 230.1,
+      "low": 222.28,
+      "close": 225.31,
+      "volume": 111477636,
+      "percent_change": -1.25
+    },
+    {
+      "date": "2025-03-17",
+      "symbol": "TSLA",
+      "open": 245.055,
+      "high": 245.4,
+      "low": 232.8,
+      "close": 238.01,
+      "volume": 111900565,
+      "percent_change": -2.87
+    },
+    {
+      "date": "2025-03-14",
+      "symbol": "TSLA",
+      "open": 247.31,
+      "high": 251.58,
+      "low": 240.73,
+      "close": 249.98,
+      "volume": 100242264,
+      "percent_change": 1.08
+    },
+    {
+      "date": "2025-03-13",
+      "symbol": "TSLA",
+      "open": 248.125,
+      "high": 248.29,
+      "low": 232.6,
+      "close": 240.68,
+      "volume": 114813525,
+      "percent_change": -3.0
+    },
+    {
+      "date": "2025-03-12",
+      "symbol": "TSLA",
+      "open": 247.22,
+      "high": 251.84,
+      "low": 241.1,
+      "close": 248.09,
+      "volume": 142215681,
+      "percent_change": 0.35
+    },
+    {
+      "date": "2025-03-11",
+      "symbol": "TSLA",
+      "open": 225.305,
+      "high": 237.0649,
+      "low": 217.02,
+      "close": 230.58,
+      "volume": 174896415,
+      "percent_change": 2.34
+    },
+    {
+      "date": "2025-03-10",
+      "symbol": "TSLA",
+      "open": 252.54,
+      "high": 253.37,
+      "low": 220.0,
+      "close": 222.15,
+      "volume": 185037825,
+      "percent_change": -12.03
+    },
+    {
+      "date": "2025-03-07",
+      "symbol": "TSLA",
+      "open": 259.32,
+      "high": 266.2499,
+      "low": 250.73,
+      "close": 262.67,
+      "volume": 102369640,
+      "percent_change": 1.29
+    },
+    {
+      "date": "2025-03-06",
+      "symbol": "TSLA",
+      "open": 272.06,
+      "high": 272.65,
+      "low": 260.02,
+      "close": 263.45,
+      "volume": 98451566,
+      "percent_change": -3.16
+    },
+    {
+      "date": "2025-03-05",
+      "symbol": "TSLA",
+      "open": 272.92,
+      "high": 279.55,
+      "low": 267.71,
+      "close": 279.1,
+      "volume": 94042913,
+      "percent_change": 2.26
+    },
+    {
+      "date": "2025-03-04",
+      "symbol": "TSLA",
+      "open": 270.93,
+      "high": 284.35,
+      "low": 261.8401,
+      "close": 272.04,
+      "volume": 126706623,
+      "percent_change": 0.41
+    },
+    {
+      "date": "2025-03-03",
+      "symbol": "TSLA",
+      "open": 300.34,
+      "high": 303.94,
+      "low": 277.3,
+      "close": 284.65,
+      "volume": 115551414,
+      "percent_change": -5.22
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "IBM": [
+    {
+      "date": "2025-04-11",
+      "symbol": "IBM",
+      "open": 229.925,
+      "high": 237.58,
+      "low": 227.51,
+      "close": 235.48,
+      "volume": 4324653,
+      "percent_change": 2.42
+    },
+    {
+      "date": "2025-04-10",
+      "symbol": "IBM",
+      "open": 231.0,
+      "high": 232.57,
+      "low": 222.02,
+      "close": 229.55,
+      "volume": 5656108,
+      "percent_change": -0.63
+    },
+    {
+      "date": "2025-04-09",
+      "symbol": "IBM",
+      "open": 217.12,
+      "high": 236.3,
+      "low": 215.1636,
+      "close": 235.31,
+      "volume": 7302808,
+      "percent_change": 8.38
+    },
+    {
+      "date": "2025-04-08",
+      "symbol": "IBM",
+      "open": 232.56,
+      "high": 233.05,
+      "low": 217.28,
+      "close": 221.03,
+      "volume": 6849996,
+      "percent_change": -4.96
+    },
+    {
+      "date": "2025-04-07",
+      "symbol": "IBM",
+      "open": 219.24,
+      "high": 232.29,
+      "low": 214.5,
+      "close": 225.78,
+      "volume": 7797889,
+      "percent_change": 2.98
+    },
+    {
+      "date": "2025-04-04",
+      "symbol": "IBM",
+      "open": 238.0,
+      "high": 240.16,
+      "low": 226.88,
+      "close": 227.48,
+      "volume": 7407096,
+      "percent_change": -4.42
+    },
+    {
+      "date": "2025-04-03",
+      "symbol": "IBM",
+      "open": 242.71,
+      "high": 250.61,
+      "low": 242.53,
+      "close": 243.49,
+      "volume": 5309626,
+      "percent_change": 0.32
+    },
+    {
+      "date": "2025-04-02",
+      "symbol": "IBM",
+      "open": 248.22,
+      "high": 252.79,
+      "low": 247.23,
+      "close": 249.98,
+      "volume": 4080832,
+      "percent_change": 0.71
+    },
+    {
+      "date": "2025-04-01",
+      "symbol": "IBM",
+      "open": 248.03,
+      "high": 250.62,
+      "low": 243.49,
+      "close": 250.34,
+      "volume": 4413139,
+      "percent_change": 0.93
+    },
+    {
+      "date": "2025-03-31",
+      "symbol": "IBM",
+      "open": 242.74,
+      "high": 250.89,
+      "low": 242.49,
+      "close": 248.66,
+      "volume": 6794972,
+      "percent_change": 2.44
+    },
+    {
+      "date": "2025-03-28",
+      "symbol": "IBM",
+      "open": 246.27,
+      "high": 247.57,
+      "low": 242.07,
+      "close": 244.0,
+      "volume": 3125594,
+      "percent_change": -0.92
+    },
+    {
+      "date": "2025-03-27",
+      "symbol": "IBM",
+      "open": 249.71,
+      "high": 250.3,
+      "low": 245.725,
+      "close": 246.21,
+      "volume": 2889328,
+      "percent_change": -1.4
+    },
+    {
+      "date": "2025-03-26",
+      "symbol": "IBM",
+      "open": 251.25,
+      "high": 254.32,
+      "low": 249.53,
+      "close": 250.34,
+      "volume": 4452220,
+      "percent_change": -0.36
+    },
+    {
+      "date": "2025-03-25",
+      "symbol": "IBM",
+      "open": 248.36,
+      "high": 250.9,
+      "low": 248.2,
+      "close": 249.9,
+      "volume": 3133809,
+      "percent_change": 0.62
+    },
+    {
+      "date": "2025-03-24",
+      "symbol": "IBM",
+      "open": 247.31,
+      "high": 248.82,
+      "low": 245.965,
+      "close": 248.45,
+      "volume": 4753331,
+      "percent_change": 0.46
+    },
+    {
+      "date": "2025-03-21",
+      "symbol": "IBM",
+      "open": 241.69,
+      "high": 245.205,
+      "low": 238.5,
+      "close": 243.87,
+      "volume": 9580084,
+      "percent_change": 0.9
+    },
+    {
+      "date": "2025-03-20",
+      "symbol": "IBM",
+      "open": 244.24,
+      "high": 246.8,
+      "low": 237.224,
+      "close": 243.32,
+      "volume": 7026796,
+      "percent_change": -0.38
+    },
+    {
+      "date": "2025-03-19",
+      "symbol": "IBM",
+      "open": 248.33,
+      "high": 253.66,
+      "low": 246.64,
+      "close": 252.29,
+      "volume": 3853598,
+      "percent_change": 1.59
+    },
+    {
+      "date": "2025-03-18",
+      "symbol": "IBM",
+      "open": 252.51,
+      "high": 252.57,
+      "low": 245.12,
+      "close": 246.95,
+      "volume": 4172239,
+      "percent_change": -2.2
+    },
+    {
+      "date": "2025-03-17",
+      "symbol": "IBM",
+      "open": 249.25,
+      "high": 254.63,
+      "low": 249.0,
+      "close": 252.97,
+      "volume": 3234149,
+      "percent_change": 1.49
+    },
+    {
+      "date": "2025-03-14",
+      "symbol": "IBM",
+      "open": 242.745,
+      "high": 248.9499,
+      "low": 241.68,
+      "close": 248.35,
+      "volume": 4045284,
+      "percent_change": 2.31
+    },
+    {
+      "date": "2025-03-13",
+      "symbol": "IBM",
+      "open": 248.8,
+      "high": 249.27,
+      "low": 243.04,
+      "close": 245.8,
+      "volume": 3862416,
+      "percent_change": -1.21
+    },
+    {
+      "date": "2025-03-12",
+      "symbol": "IBM",
+      "open": 250.35,
+      "high": 253.1273,
+      "low": 245.53,
+      "close": 249.63,
+      "volume": 3849206,
+      "percent_change": -0.29
+    },
+    {
+      "date": "2025-03-11",
+      "symbol": "IBM",
+      "open": 255.99,
+      "high": 256.7,
+      "low": 245.86,
+      "close": 248.95,
+      "volume": 5630570,
+      "percent_change": -2.75
+    },
+    {
+      "date": "2025-03-10",
+      "symbol": "IBM",
+      "open": 261.56,
+      "high": 266.45,
+      "low": 254.75,
+      "close": 256.9,
+      "volume": 8126234,
+      "percent_change": -1.78
+    },
+    {
+      "date": "2025-03-07",
+      "symbol": "IBM",
+      "open": 245.95,
+      "high": 261.96,
+      "low": 245.1823,
+      "close": 261.54,
+      "volume": 6700184,
+      "percent_change": 6.34
+    },
+    {
+      "date": "2025-03-06",
+      "symbol": "IBM",
+      "open": 249.75,
+      "high": 252.1,
+      "low": 246.8019,
+      "close": 248.69,
+      "volume": 3254358,
+      "percent_change": -0.42
+    },
+    {
+      "date": "2025-03-05",
+      "symbol": "IBM",
+      "open": 251.58,
+      "high": 252.74,
+      "low": 247.0146,
+      "close": 251.35,
+      "volume": 4009813,
+      "percent_change": -0.09
+    },
+    {
+      "date": "2025-03-04",
+      "symbol": "IBM",
+      "open": 248.75,
+      "high": 255.48,
+      "low": 248.1,
+      "close": 253.21,
+      "volume": 5342106,
+      "percent_change": 1.79
+    },
+    {
+      "date": "2025-03-03",
+      "symbol": "IBM",
+      "open": 254.735,
+      "high": 255.99,
+      "low": 248.245,
+      "close": 250.19,
+      "volume": 2977699,
+      "percent_change": -1.78
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "TECH": [
+    {
+      "date": "2025-04-11",
+      "symbol": "TECH",
+      "open": 49.26,
+      "high": 51.09,
+      "low": 48.415,
+      "close": 50.72,
+      "volume": 3195460,
+      "percent_change": 2.96
+    },
+    {
+      "date": "2025-04-10",
+      "symbol": "TECH",
+      "open": 52.65,
+      "high": 52.65,
+      "low": 48.4,
+      "close": 49.26,
+      "volume": 2696104,
+      "percent_change": -6.44
+    },
+    {
+      "date": "2025-04-09",
+      "symbol": "TECH",
+      "open": 46.53,
+      "high": 54.32,
+      "low": 46.44,
+      "close": 54.07,
+      "volume": 4371449,
+      "percent_change": 16.2
+    },
+    {
+      "date": "2025-04-08",
+      "symbol": "TECH",
+      "open": 53.26,
+      "high": 53.8299,
+      "low": 48.34,
+      "close": 48.81,
+      "volume": 3343927,
+      "percent_change": -8.36
+    },
+    {
+      "date": "2025-04-07",
+      "symbol": "TECH",
+      "open": 50.55,
+      "high": 54.33,
+      "low": 48.91,
+      "close": 52.31,
+      "volume": 3815820,
+      "percent_change": 3.48
+    },
+    {
+      "date": "2025-04-04",
+      "symbol": "TECH",
+      "open": 53.01,
+      "high": 53.75,
+      "low": 50.35,
+      "close": 51.72,
+      "volume": 2931895,
+      "percent_change": -2.43
+    },
+    {
+      "date": "2025-04-03",
+      "symbol": "TECH",
+      "open": 56.93,
+      "high": 57.19,
+      "low": 54.82,
+      "close": 54.86,
+      "volume": 1989326,
+      "percent_change": -3.64
+    },
+    {
+      "date": "2025-04-02",
+      "symbol": "TECH",
+      "open": 57.04,
+      "high": 58.64,
+      "low": 56.82,
+      "close": 58.38,
+      "volume": 1455862,
+      "percent_change": 2.35
+    },
+    {
+      "date": "2025-04-01",
+      "symbol": "TECH",
+      "open": 57.69,
+      "high": 58.75,
+      "low": 57.07,
+      "close": 57.35,
+      "volume": 1675873,
+      "percent_change": -0.59
+    },
+    {
+      "date": "2025-03-31",
+      "symbol": "TECH",
+      "open": 57.98,
+      "high": 59.205,
+      "low": 56.7,
+      "close": 58.63,
+      "volume": 1467651,
+      "percent_change": 1.12
+    },
+    {
+      "date": "2025-03-28",
+      "symbol": "TECH",
+      "open": 59.71,
+      "high": 59.88,
+      "low": 58.47,
+      "close": 58.73,
+      "volume": 1505061,
+      "percent_change": -1.64
+    },
+    {
+      "date": "2025-03-27",
+      "symbol": "TECH",
+      "open": 59.36,
+      "high": 60.79,
+      "low": 59.1001,
+      "close": 59.95,
+      "volume": 1604537,
+      "percent_change": 0.99
+    },
+    {
+      "date": "2025-03-26",
+      "symbol": "TECH",
+      "open": 59.97,
+      "high": 60.36,
+      "low": 58.97,
+      "close": 59.38,
+      "volume": 1913835,
+      "percent_change": -0.98
+    },
+    {
+      "date": "2025-03-25",
+      "symbol": "TECH",
+      "open": 61.22,
+      "high": 61.86,
+      "low": 59.33,
+      "close": 59.98,
+      "volume": 1454476,
+      "percent_change": -2.03
+    },
+    {
+      "date": "2025-03-24",
+      "symbol": "TECH",
+      "open": 60.71,
+      "high": 62.15,
+      "low": 60.47,
+      "close": 61.07,
+      "volume": 1121505,
+      "percent_change": 0.59
+    },
+    {
+      "date": "2025-03-21",
+      "symbol": "TECH",
+      "open": 59.97,
+      "high": 61.14,
+      "low": 59.45,
+      "close": 60.61,
+      "volume": 2581240,
+      "percent_change": 1.07
+    },
+    {
+      "date": "2025-03-20",
+      "symbol": "TECH",
+      "open": 60.67,
+      "high": 61.33,
+      "low": 59.65,
+      "close": 60.34,
+      "volume": 992796,
+      "percent_change": -0.54
+    },
+    {
+      "date": "2025-03-19",
+      "symbol": "TECH",
+      "open": 62.52,
+      "high": 63.005,
+      "low": 60.83,
+      "close": 60.89,
+      "volume": 1520534,
+      "percent_change": -2.61
+    },
+    {
+      "date": "2025-03-18",
+      "symbol": "TECH",
+      "open": 62.81,
+      "high": 62.87,
+      "low": 61.115,
+      "close": 62.83,
+      "volume": 1242709,
+      "percent_change": 0.03
+    },
+    {
+      "date": "2025-03-17",
+      "symbol": "TECH",
+      "open": 62.31,
+      "high": 63.7625,
+      "low": 61.83,
+      "close": 62.58,
+      "volume": 1531681,
+      "percent_change": 0.43
+    },
+    {
+      "date": "2025-03-14",
+      "symbol": "TECH",
+      "open": 60.54,
+      "high": 62.41,
+      "low": 60.1623,
+      "close": 62.16,
+      "volume": 2197719,
+      "percent_change": 2.68
+    },
+    {
+      "date": "2025-03-13",
+      "symbol": "TECH",
+      "open": 59.93,
+      "high": 61.68,
+      "low": 59.2,
+      "close": 59.88,
+      "volume": 2636256,
+      "percent_change": -0.08
+    },
+    {
+      "date": "2025-03-12",
+      "symbol": "TECH",
+      "open": 58.67,
+      "high": 60.3,
+      "low": 56.6,
+      "close": 60.235,
+      "volume": 3589224,
+      "percent_change": 2.67
+    },
+    {
+      "date": "2025-03-11",
+      "symbol": "TECH",
+      "open": 63.36,
+      "high": 63.85,
+      "low": 58.2,
+      "close": 58.47,
+      "volume": 3067781,
+      "percent_change": -7.72
+    },
+    {
+      "date": "2025-03-10",
+      "symbol": "TECH",
+      "open": 63.71,
+      "high": 64.8,
+      "low": 62.4,
+      "close": 62.9,
+      "volume": 2469299,
+      "percent_change": -1.27
+    },
+    {
+      "date": "2025-03-07",
+      "symbol": "TECH",
+      "open": 63.01,
+      "high": 64.65,
+      "low": 62.0601,
+      "close": 64.37,
+      "volume": 1991343,
+      "percent_change": 2.16
+    },
+    {
+      "date": "2025-03-06",
+      "symbol": "TECH",
+      "open": 61.66,
+      "high": 64.9,
+      "low": 61.66,
+      "close": 63.39,
+      "volume": 2496644,
+      "percent_change": 2.81
+    },
+    {
+      "date": "2025-03-05",
+      "symbol": "TECH",
+      "open": 60.46,
+      "high": 62.58,
+      "low": 59.98,
+      "close": 62.2,
+      "volume": 2143320,
+      "percent_change": 2.88
+    },
+    {
+      "date": "2025-03-04",
+      "symbol": "TECH",
+      "open": 60.7,
+      "high": 61.0,
+      "low": 58.98,
+      "close": 60.12,
+      "volume": 1958841,
+      "percent_change": -0.96
+    },
+    {
+      "date": "2025-03-03",
+      "symbol": "TECH",
+      "open": 61.975,
+      "high": 62.25,
+      "low": 60.39,
+      "close": 61.19,
+      "volume": 1813169,
+      "percent_change": -1.27
+    }
+  ]
+}

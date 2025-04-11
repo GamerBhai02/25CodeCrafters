@@ -1,0 +1,304 @@
+{
+  "QQQ": [
+    {
+      "date": "2025-04-11",
+      "symbol": "QQQ",
+      "open": 445.45,
+      "high": 455.76,
+      "low": 441.33,
+      "close": 454.4,
+      "volume": 52364466,
+      "percent_change": 2.01
+    },
+    {
+      "date": "2025-04-10",
+      "symbol": "QQQ",
+      "open": 453.56,
+      "high": 455.59,
+      "low": 432.63,
+      "close": 446.18,
+      "volume": 108384092,
+      "percent_change": -1.63
+    },
+    {
+      "date": "2025-04-09",
+      "symbol": "QQQ",
+      "open": 415.57,
+      "high": 467.83,
+      "low": 415.43,
+      "close": 466.0,
+      "volume": 142876878,
+      "percent_change": 12.14
+    },
+    {
+      "date": "2025-04-08",
+      "symbol": "QQQ",
+      "open": 438.16,
+      "high": 443.1384,
+      "low": 409.79,
+      "close": 416.06,
+      "volume": 101248060,
+      "percent_change": -5.04
+    },
+    {
+      "date": "2025-04-07",
+      "symbol": "QQQ",
+      "open": 408.66,
+      "high": 443.14,
+      "low": 402.39,
+      "close": 423.69,
+      "volume": 161556970,
+      "percent_change": 3.68
+    },
+    {
+      "date": "2025-04-04",
+      "symbol": "QQQ",
+      "open": 438.14,
+      "high": 440.37,
+      "low": 422.67,
+      "close": 422.67,
+      "volume": 117088441,
+      "percent_change": -3.53
+    },
+    {
+      "date": "2025-04-03",
+      "symbol": "QQQ",
+      "open": 456.44,
+      "high": 460.07,
+      "low": 450.14,
+      "close": 450.66,
+      "volume": 70456338,
+      "percent_change": -1.27
+    },
+    {
+      "date": "2025-04-02",
+      "symbol": "QQQ",
+      "open": 466.12,
+      "high": 479.56,
+      "low": 465.86,
+      "close": 476.15,
+      "volume": 49894489,
+      "percent_change": 2.15
+    },
+    {
+      "date": "2025-04-01",
+      "symbol": "QQQ",
+      "open": 467.3,
+      "high": 473.63,
+      "low": 464.42,
+      "close": 472.7,
+      "volume": 41156226,
+      "percent_change": 1.16
+    },
+    {
+      "date": "2025-03-31",
+      "symbol": "QQQ",
+      "open": 461.92,
+      "high": 469.86,
+      "low": 457.33,
+      "close": 468.92,
+      "volume": 53000303,
+      "percent_change": 1.52
+    },
+    {
+      "date": "2025-03-28",
+      "symbol": "QQQ",
+      "open": 479.81,
+      "high": 480.52,
+      "low": 468.05,
+      "close": 468.94,
+      "volume": 46363797,
+      "percent_change": -2.27
+    },
+    {
+      "date": "2025-03-27",
+      "symbol": "QQQ",
+      "open": 482.41,
+      "high": 486.5799,
+      "low": 480.25,
+      "close": 481.62,
+      "volume": 33469817,
+      "percent_change": -0.16
+    },
+    {
+      "date": "2025-03-26",
+      "symbol": "QQQ",
+      "open": 492.3,
+      "high": 493.16,
+      "low": 482.82,
+      "close": 484.38,
+      "volume": 35043357,
+      "percent_change": -1.61
+    },
+    {
+      "date": "2025-03-25",
+      "symbol": "QQQ",
+      "open": 491.39,
+      "high": 493.62,
+      "low": 490.42,
+      "close": 493.46,
+      "volume": 26035241,
+      "percent_change": 0.42
+    },
+    {
+      "date": "2025-03-24",
+      "symbol": "QQQ",
+      "open": 487.74,
+      "high": 491.51,
+      "low": 484.4,
+      "close": 490.66,
+      "volume": 34567186,
+      "percent_change": 0.6
+    },
+    {
+      "date": "2025-03-21",
+      "symbol": "QQQ",
+      "open": 474.08,
+      "high": 481.61,
+      "low": 472.905,
+      "close": 480.84,
+      "volume": 42234874,
+      "percent_change": 1.43
+    },
+    {
+      "date": "2025-03-20",
+      "symbol": "QQQ",
+      "open": 476.88,
+      "high": 484.55,
+      "low": 476.18,
+      "close": 479.26,
+      "volume": 36780549,
+      "percent_change": 0.5
+    },
+    {
+      "date": "2025-03-19",
+      "symbol": "QQQ",
+      "open": 476.81,
+      "high": 485.33,
+      "low": 474.87,
+      "close": 480.89,
+      "volume": 40430334,
+      "percent_change": 0.86
+    },
+    {
+      "date": "2025-03-18",
+      "symbol": "QQQ",
+      "open": 479.41,
+      "high": 479.61,
+      "low": 472.41,
+      "close": 474.54,
+      "volume": 39072265,
+      "percent_change": -1.02
+    },
+    {
+      "date": "2025-03-17",
+      "symbol": "QQQ",
+      "open": 479.61,
+      "high": 485.84,
+      "low": 477.8,
+      "close": 482.77,
+      "volume": 41744354,
+      "percent_change": 0.66
+    },
+    {
+      "date": "2025-03-14",
+      "symbol": "QQQ",
+      "open": 473.73,
+      "high": 480.56,
+      "low": 473.12,
+      "close": 479.66,
+      "volume": 43563010,
+      "percent_change": 1.25
+    },
+    {
+      "date": "2025-03-13",
+      "symbol": "QQQ",
+      "open": 476.25,
+      "high": 476.2801,
+      "low": 466.43,
+      "close": 468.34,
+      "volume": 46563349,
+      "percent_change": -1.66
+    },
+    {
+      "date": "2025-03-12",
+      "symbol": "QQQ",
+      "open": 479.16,
+      "high": 481.06,
+      "low": 471.79,
+      "close": 476.92,
+      "volume": 46971082,
+      "percent_change": -0.47
+    },
+    {
+      "date": "2025-03-11",
+      "symbol": "QQQ",
+      "open": 472.35,
+      "high": 478.805,
+      "low": 467.01,
+      "close": 471.6,
+      "volume": 68760771,
+      "percent_change": -0.16
+    },
+    {
+      "date": "2025-03-10",
+      "symbol": "QQQ",
+      "open": 483.45,
+      "high": 483.97,
+      "low": 468.66,
+      "close": 472.73,
+      "volume": 74815507,
+      "percent_change": -2.22
+    },
+    {
+      "date": "2025-03-07",
+      "symbol": "QQQ",
+      "open": 487.16,
+      "high": 493.28,
+      "low": 480.53,
+      "close": 491.79,
+      "volume": 54714726,
+      "percent_change": 0.95
+    },
+    {
+      "date": "2025-03-06",
+      "symbol": "QQQ",
+      "open": 493.69,
+      "high": 498.58,
+      "low": 486.2,
+      "close": 488.2,
+      "volume": 57574332,
+      "percent_change": -1.11
+    },
+    {
+      "date": "2025-03-05",
+      "symbol": "QQQ",
+      "open": 496.2,
+      "high": 503.63,
+      "low": 491.26,
+      "close": 502.01,
+      "volume": 46323725,
+      "percent_change": 1.17
+    },
+    {
+      "date": "2025-03-04",
+      "symbol": "QQQ",
+      "open": 494.18,
+      "high": 503.74,
+      "low": 487.735,
+      "close": 495.55,
+      "volume": 67875402,
+      "percent_change": 0.28
+    },
+    {
+      "date": "2025-03-03",
+      "symbol": "QQQ",
+      "open": 511.52,
+      "high": 513.04,
+      "low": 493.58,
+      "close": 497.05,
+      "volume": 44587204,
+      "percent_change": -2.83
+    }
+  ]
+}

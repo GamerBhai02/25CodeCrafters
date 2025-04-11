@@ -1,0 +1,304 @@
+{
+  "SPY": [
+    {
+      "date": "2025-04-11",
+      "symbol": "SPY",
+      "open": 523.91,
+      "high": 536.43,
+      "low": 520.1,
+      "close": 533.85,
+      "volume": 97156128,
+      "percent_change": 1.9
+    },
+    {
+      "date": "2025-04-10",
+      "symbol": "SPY",
+      "open": 532.17,
+      "high": 533.495,
+      "low": 509.32,
+      "close": 524.58,
+      "volume": 162331225,
+      "percent_change": -1.43
+    },
+    {
+      "date": "2025-04-09",
+      "symbol": "SPY",
+      "open": 493.44,
+      "high": 548.62,
+      "low": 493.05,
+      "close": 548.62,
+      "volume": 241867317,
+      "percent_change": 11.18
+    },
+    {
+      "date": "2025-04-08",
+      "symbol": "SPY",
+      "open": 521.86,
+      "high": 524.98,
+      "low": 489.16,
+      "close": 496.48,
+      "volume": 165816581,
+      "percent_change": -4.86
+    },
+    {
+      "date": "2025-04-07",
+      "symbol": "SPY",
+      "open": 489.19,
+      "high": 523.17,
+      "low": 481.8,
+      "close": 504.38,
+      "volume": 256611355,
+      "percent_change": 3.11
+    },
+    {
+      "date": "2025-04-04",
+      "symbol": "SPY",
+      "open": 523.67,
+      "high": 525.87,
+      "low": 505.06,
+      "close": 505.28,
+      "volume": 217965131,
+      "percent_change": -3.51
+    },
+    {
+      "date": "2025-04-03",
+      "symbol": "SPY",
+      "open": 545.11,
+      "high": 547.97,
+      "low": 536.7,
+      "close": 536.7,
+      "volume": 125985998,
+      "percent_change": -1.54
+    },
+    {
+      "date": "2025-04-02",
+      "symbol": "SPY",
+      "open": 555.05,
+      "high": 567.42,
+      "low": 554.81,
+      "close": 564.52,
+      "volume": 76014544,
+      "percent_change": 1.71
+    },
+    {
+      "date": "2025-04-01",
+      "symbol": "SPY",
+      "open": 557.45,
+      "high": 562.94,
+      "low": 553.68,
+      "close": 560.97,
+      "volume": 54609641,
+      "percent_change": 0.63
+    },
+    {
+      "date": "2025-03-31",
+      "symbol": "SPY",
+      "open": 549.83,
+      "high": 560.7112,
+      "low": 546.87,
+      "close": 559.39,
+      "volume": 95328213,
+      "percent_change": 1.74
+    },
+    {
+      "date": "2025-03-28",
+      "symbol": "SPY",
+      "open": 565.53,
+      "high": 566.2675,
+      "low": 555.07,
+      "close": 555.66,
+      "volume": 71662653,
+      "percent_change": -1.75
+    },
+    {
+      "date": "2025-03-27",
+      "symbol": "SPY",
+      "open": 567.18,
+      "high": 570.9,
+      "low": 564.94,
+      "close": 567.08,
+      "volume": 42164248,
+      "percent_change": -0.02
+    },
+    {
+      "date": "2025-03-26",
+      "symbol": "SPY",
+      "open": 575.19,
+      "high": 576.33,
+      "low": 567.19,
+      "close": 568.59,
+      "volume": 52228898,
+      "percent_change": -1.15
+    },
+    {
+      "date": "2025-03-25",
+      "symbol": "SPY",
+      "open": 575.3,
+      "high": 576.41,
+      "low": 573.69,
+      "close": 575.46,
+      "volume": 38355735,
+      "percent_change": 0.03
+    },
+    {
+      "date": "2025-03-24",
+      "symbol": "SPY",
+      "open": 570.8,
+      "high": 575.15,
+      "low": 570.2,
+      "close": 574.08,
+      "volume": 58766795,
+      "percent_change": 0.57
+    },
+    {
+      "date": "2025-03-21",
+      "symbol": "SPY",
+      "open": 559.28,
+      "high": 564.89,
+      "low": 558.03,
+      "close": 563.98,
+      "volume": 83762964,
+      "percent_change": 0.84
+    },
+    {
+      "date": "2025-03-20",
+      "symbol": "SPY",
+      "open": 563.33,
+      "high": 570.57,
+      "low": 562.6012,
+      "close": 565.49,
+      "volume": 62958195,
+      "percent_change": 0.38
+    },
+    {
+      "date": "2025-03-19",
+      "symbol": "SPY",
+      "open": 562.83,
+      "high": 570.95,
+      "low": 561.63,
+      "close": 567.13,
+      "volume": 66555985,
+      "percent_change": 0.76
+    },
+    {
+      "date": "2025-03-18",
+      "symbol": "SPY",
+      "open": 564.8,
+      "high": 565.02,
+      "low": 559.06,
+      "close": 561.02,
+      "volume": 66041422,
+      "percent_change": -0.67
+    },
+    {
+      "date": "2025-03-17",
+      "symbol": "SPY",
+      "open": 562.79,
+      "high": 569.71,
+      "low": 562.35,
+      "close": 567.15,
+      "volume": 49008709,
+      "percent_change": 0.77
+    },
+    {
+      "date": "2025-03-14",
+      "symbol": "SPY",
+      "open": 556.11,
+      "high": 563.83,
+      "low": 551.4917,
+      "close": 562.81,
+      "volume": 62660321,
+      "percent_change": 1.2
+    },
+    {
+      "date": "2025-03-13",
+      "symbol": "SPY",
+      "open": 558.49,
+      "high": 559.105,
+      "low": 549.68,
+      "close": 551.42,
+      "volume": 74079414,
+      "percent_change": -1.27
+    },
+    {
+      "date": "2025-03-12",
+      "symbol": "SPY",
+      "open": 562.17,
+      "high": 563.11,
+      "low": 553.69,
+      "close": 558.87,
+      "volume": 69588167,
+      "percent_change": -0.59
+    },
+    {
+      "date": "2025-03-11",
+      "symbol": "SPY",
+      "open": 559.4,
+      "high": 564.02,
+      "low": 552.02,
+      "close": 555.92,
+      "volume": 88102109,
+      "percent_change": -0.62
+    },
+    {
+      "date": "2025-03-10",
+      "symbol": "SPY",
+      "open": 567.59,
+      "high": 569.54,
+      "low": 555.59,
+      "close": 560.58,
+      "volume": 97084529,
+      "percent_change": -1.24
+    },
+    {
+      "date": "2025-03-07",
+      "symbol": "SPY",
+      "open": 570.9,
+      "high": 577.39,
+      "low": 565.63,
+      "close": 575.92,
+      "volume": 81158816,
+      "percent_change": 0.88
+    },
+    {
+      "date": "2025-03-06",
+      "symbol": "SPY",
+      "open": 575.48,
+      "high": 580.1736,
+      "low": 570.12,
+      "close": 572.71,
+      "volume": 80094868,
+      "percent_change": -0.48
+    },
+    {
+      "date": "2025-03-05",
+      "symbol": "SPY",
+      "open": 576.69,
+      "high": 584.88,
+      "low": 573.0795,
+      "close": 583.06,
+      "volume": 71230528,
+      "percent_change": 1.1
+    },
+    {
+      "date": "2025-03-04",
+      "symbol": "SPY",
+      "open": 579.71,
+      "high": 585.39,
+      "low": 572.25,
+      "close": 576.86,
+      "volume": 109648212,
+      "percent_change": -0.49
+    },
+    {
+      "date": "2025-03-03",
+      "symbol": "SPY",
+      "open": 596.18,
+      "high": 597.34,
+      "low": 579.9,
+      "close": 583.77,
+      "volume": 74249199,
+      "percent_change": -2.08
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "VTI": [
+    {
+      "date": "2025-04-11",
+      "symbol": "VTI",
+      "open": 256.83,
+      "high": 262.75,
+      "low": 254.67,
+      "close": 261.73,
+      "volume": 5001278,
+      "percent_change": 1.91
+    },
+    {
+      "date": "2025-04-10",
+      "symbol": "VTI",
+      "open": 261.11,
+      "high": 261.66,
+      "low": 249.89,
+      "close": 257.43,
+      "volume": 7255672,
+      "percent_change": -1.41
+    },
+    {
+      "date": "2025-04-09",
+      "symbol": "VTI",
+      "open": 241.85,
+      "high": 268.48,
+      "low": 241.62,
+      "close": 268.48,
+      "volume": 12138002,
+      "percent_change": 11.01
+    },
+    {
+      "date": "2025-04-08",
+      "symbol": "VTI",
+      "open": 256.5,
+      "high": 257.71,
+      "low": 240.05,
+      "close": 243.75,
+      "volume": 11064313,
+      "percent_change": -4.97
+    },
+    {
+      "date": "2025-04-07",
+      "symbol": "VTI",
+      "open": 240.0,
+      "high": 257.03,
+      "low": 236.42,
+      "close": 247.66,
+      "volume": 16346695,
+      "percent_change": 3.19
+    },
+    {
+      "date": "2025-04-04",
+      "symbol": "VTI",
+      "open": 256.97,
+      "high": 257.7299,
+      "low": 248.1808,
+      "close": 248.47,
+      "volume": 16633692,
+      "percent_change": -3.31
+    },
+    {
+      "date": "2025-04-03",
+      "symbol": "VTI",
+      "open": 268.01,
+      "high": 269.373,
+      "low": 263.7,
+      "close": 263.96,
+      "volume": 8137451,
+      "percent_change": -1.51
+    },
+    {
+      "date": "2025-04-02",
+      "symbol": "VTI",
+      "open": 272.85,
+      "high": 279.25,
+      "low": 272.61,
+      "close": 277.95,
+      "volume": 2594701,
+      "percent_change": 1.87
+    },
+    {
+      "date": "2025-04-01",
+      "symbol": "VTI",
+      "open": 273.9,
+      "high": 276.79,
+      "low": 272.055,
+      "close": 275.77,
+      "volume": 3269917,
+      "percent_change": 0.68
+    },
+    {
+      "date": "2025-03-31",
+      "symbol": "VTI",
+      "open": 270.27,
+      "high": 275.58,
+      "low": 268.7305,
+      "close": 274.84,
+      "volume": 6064045,
+      "percent_change": 1.69
+    },
+    {
+      "date": "2025-03-28",
+      "symbol": "VTI",
+      "open": 278.31,
+      "high": 278.75,
+      "low": 273.05,
+      "close": 273.43,
+      "volume": 3912899,
+      "percent_change": -1.75
+    },
+    {
+      "date": "2025-03-27",
+      "symbol": "VTI",
+      "open": 279.46,
+      "high": 281.08,
+      "low": 278.05,
+      "close": 278.99,
+      "volume": 2345342,
+      "percent_change": -0.17
+    },
+    {
+      "date": "2025-03-26",
+      "symbol": "VTI",
+      "open": 284.15,
+      "high": 284.92,
+      "low": 280.31,
+      "close": 281.16,
+      "volume": 2473462,
+      "percent_change": -1.05
+    },
+    {
+      "date": "2025-03-25",
+      "symbol": "VTI",
+      "open": 284.52,
+      "high": 285.09,
+      "low": 283.66,
+      "close": 284.49,
+      "volume": 2517248,
+      "percent_change": -0.01
+    },
+    {
+      "date": "2025-03-24",
+      "symbol": "VTI",
+      "open": 282.25,
+      "high": 284.53,
+      "low": 281.9,
+      "close": 284.01,
+      "volume": 3251647,
+      "percent_change": 0.62
+    },
+    {
+      "date": "2025-03-21",
+      "symbol": "VTI",
+      "open": 276.41,
+      "high": 279.07,
+      "low": 275.68,
+      "close": 278.85,
+      "volume": 3382468,
+      "percent_change": 0.88
+    },
+    {
+      "date": "2025-03-20",
+      "symbol": "VTI",
+      "open": 277.7,
+      "high": 281.2,
+      "low": 277.26,
+      "close": 278.74,
+      "volume": 2256439,
+      "percent_change": 0.37
+    },
+    {
+      "date": "2025-03-19",
+      "symbol": "VTI",
+      "open": 277.0,
+      "high": 281.38,
+      "low": 276.625,
+      "close": 279.41,
+      "volume": 2867838,
+      "percent_change": 0.87
+    },
+    {
+      "date": "2025-03-18",
+      "symbol": "VTI",
+      "open": 278.2,
+      "high": 278.5,
+      "low": 275.335,
+      "close": 276.27,
+      "volume": 3120881,
+      "percent_change": -0.69
+    },
+    {
+      "date": "2025-03-17",
+      "symbol": "VTI",
+      "open": 276.73,
+      "high": 280.5965,
+      "low": 276.68,
+      "close": 279.28,
+      "volume": 3981121,
+      "percent_change": 0.92
+    },
+    {
+      "date": "2025-03-14",
+      "symbol": "VTI",
+      "open": 273.6,
+      "high": 277.38,
+      "low": 273.36,
+      "close": 276.99,
+      "volume": 3610112,
+      "percent_change": 1.24
+    },
+    {
+      "date": "2025-03-13",
+      "symbol": "VTI",
+      "open": 274.93,
+      "high": 275.0,
+      "low": 270.2,
+      "close": 271.18,
+      "volume": 3932466,
+      "percent_change": -1.36
+    },
+    {
+      "date": "2025-03-12",
+      "symbol": "VTI",
+      "open": 276.795,
+      "high": 277.29,
+      "low": 272.48,
+      "close": 275.04,
+      "volume": 3996109,
+      "percent_change": -0.63
+    },
+    {
+      "date": "2025-03-11",
+      "symbol": "VTI",
+      "open": 275.0,
+      "high": 277.0,
+      "low": 271.58,
+      "close": 273.69,
+      "volume": 5282368,
+      "percent_change": -0.48
+    },
+    {
+      "date": "2025-03-10",
+      "symbol": "VTI",
+      "open": 279.43,
+      "high": 280.28,
+      "low": 273.14,
+      "close": 275.62,
+      "volume": 6227449,
+      "percent_change": -1.36
+    },
+    {
+      "date": "2025-03-07",
+      "symbol": "VTI",
+      "open": 281.22,
+      "high": 284.05,
+      "low": 278.11,
+      "close": 283.34,
+      "volume": 3868701,
+      "percent_change": 0.75
+    },
+    {
+      "date": "2025-03-06",
+      "symbol": "VTI",
+      "open": 283.53,
+      "high": 285.8188,
+      "low": 280.65,
+      "close": 282.01,
+      "volume": 4836315,
+      "percent_change": -0.54
+    },
+    {
+      "date": "2025-03-05",
+      "symbol": "VTI",
+      "open": 284.08,
+      "high": 288.14,
+      "low": 282.32,
+      "close": 287.35,
+      "volume": 3662336,
+      "percent_change": 1.15
+    },
+    {
+      "date": "2025-03-04",
+      "symbol": "VTI",
+      "open": 285.2,
+      "high": 288.45,
+      "low": 281.5,
+      "close": 284.12,
+      "volume": 6449645,
+      "percent_change": -0.38
+    },
+    {
+      "date": "2025-03-03",
+      "symbol": "VTI",
+      "open": 293.91,
+      "high": 294.72,
+      "low": 285.77,
+      "close": 287.71,
+      "volume": 7835571,
+      "percent_change": -2.11
+    }
+  ]
+}
