@@ -8,3 +8,4 @@ sentence-transformers
 faiss-cpu
 textblob
 requests
+bs4
