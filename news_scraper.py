@@ -9,13 +9,6 @@ from textblob import TextBlob
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
-import subprocess
-
-try:
-    nlp = spacy.load("en_core_web_sm")
-except:
-    subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
-    nlp = spacy.load("en_core_web_sm")
 
 # Load models once
 nlp = spacy.load("en_core_web_sm")
