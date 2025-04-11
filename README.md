@@ -1,6 +1,6 @@
-# 🧠 NewsSense – Why Is My Fund Down?
+# 🧠 NewSense – Why Is My Fund Down?
 
-NewsSense is an AI-powered explanation system that helps investors understand **why mutual funds or ETFs are falling** by analyzing performance trends and scraping relevant real-world news. It uses NLP to summarize news articles, detect sentiment, highlight key entities, and match them with the fund's major holdings.
+NewSense is an AI-powered explanation system that helps investors understand **why mutual funds or ETFs are falling** by analyzing performance trends and scraping relevant real-world news. It uses NLP to summarize news articles, detect sentiment, highlight key entities, and match them with the fund's major holdings.
 
 ---
 
