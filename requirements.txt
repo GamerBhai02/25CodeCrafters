@@ -1,1 +1,10 @@
-
+streamlit
+pandas
+plotly
+nltk
+spacy
+transformers
+sentence-transformers
+faiss-cpu
+textblob
+requests
