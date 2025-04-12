@@ -11,8 +11,8 @@ NewSense is an AI-powered explanation system that helps investors understand **w
 - 📰 **Dynamic News Scraping** based on ticker and keywords (no API dependency)
 - 🧠 **AI Summarization** using NLP models
 - 😃 **Sentiment Analysis** of scraped articles
-- 🔎 **Named Entity Recognition (NER)** for companies, people, organizations, etc.
-- 🎯 **Matching News to Fund Holdings** for better insights
+- 🔎 Named Entity Recognition (NER) for companies, people, organizations, etc.
+- 🎯 Matching News to Fund Holdings for better insights
 
 ---
 
